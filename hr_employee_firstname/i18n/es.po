@@ -44,4 +44,4 @@ msgstr "Sin nombre establecido."
 #~ msgstr "Nombre propio"
 
 #~ msgid "Lastname"
-#~ msgstr "Apellidos"
+#~ msgstr "Apellido"
